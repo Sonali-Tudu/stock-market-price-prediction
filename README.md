@@ -1,6 +1,4 @@
-# E-commerce Sales Insights using Power BI
-
-![E-commerce Sales Dashboard](images/dashboard.png)
+# Stock Market Price Prediction Using Machine Learning
 
 ## Project Overview
 The "Stock Market Price Prediction using Machine Learning" project aims to predict future stock market prices utilizing advanced machine learning techniques. By analyzing historical stock data, the project forecasts future price trends to assist investors in making informed decisions.
